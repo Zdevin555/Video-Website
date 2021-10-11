@@ -1,0 +1,73 @@
+
+[
+    {
+      "title":"Angular Crash Course 2021",
+      "channel":"Traversy Media",
+      "url":"https://www.youtube.com/embed/3dHNOWTI7H8",
+      "thumbnaiUrl":"https://img.youtube.com/vi/3dHNOWTI7H8/0.jpg",
+      "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLSxHOOxxa9Af8Bfb2XMop3lm4tor9bViWiC-d5aaw=s48-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "title":"Angular 11 Tutorial - Code a Project from Scratch",
+        "channel":"freeCodeCamp.org",
+        "url":"https://www.youtube.com/embed/LiOzTQAz13Q",
+        "thumbnaiUrl":"https://img.youtube.com/vi/LiOzTQAz13Q/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLRkU2-RDemsCSaVVsPwc-yxtWruCB1Gr2VIgQKOKg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Angular Tutorial for Beginners: Learn Angular & Typescript",
+        "channel":"Monsterlessons Academy",
+        "url":"https://www.youtube.com/embed/Pd98NIR63cU",
+        "thumbnaiUrl":"https://img.youtube.com/vi/Pd98NIR63cU/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLSFyGD4vkQJw0dYCPRjU7qujLVY38JBDyy7sxvS=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Spring Boot Full Stack with Angular | Full Course [2021] [NEW]",
+        "channel":"Amigoscode",
+        "url":"https://www.youtube.com/embed/Gx4iBLKLVHk",
+        "thumbnaiUrl":"https://img.youtube.com/vi/Gx4iBLKLVHk/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLRFUNsF6J0E_KURLUU3D0vqXiyhylruAKhmFqMhL3o=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Angular Tutorial for Beginners: Learn Angular & TypeScript",
+        "channel":"Programming with Mosh",
+        "url":"https://www.youtube.com/embed/k5E2AVpwsko",
+        "thumbnaiUrl":"https://img.youtube.com/vi/k5E2AVpwsko/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Angular Tutorial - 1 - Introduction",
+        "channel":"Codevolution",
+        "url":"https://www.youtube.com/embed/0eWrpsCLMJQ",
+        "thumbnaiUrl":"https://img.youtube.com/vi/0eWrpsCLMJQ/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLRiQvy0Vqz9AHw8jkUl_8DxBhE8EMSNsorUolMy=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Build Your First ANGULAR Web app ~ Beginner Angular Todo app",
+        "channel":"Tyler Potts",
+        "url":"https://www.youtube.com/embed/i7KaVFOXNUQ",
+        "thumbnaiUrl":"https://img.youtube.com/vi/i7KaVFOXNUQ/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/IM5sZ1Iqx6OrQIxIjabHv3KnBd928RqUHytXdScgJTjnv-AowRfRWxpg3WuDzargQy5EiSeadEw=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Angular Full Course - Learn Angular In 3 Hours | Angular Tutorial For Beginners | Simplilearn",
+        "channel":"Simplilearn",
+        "url":"https://www.youtube.com/embed/iZ1mlcCkY8A",
+        "thumbnaiUrl":"https://img.youtube.com/vi/iZ1mlcCkY8A/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLTaNnIZrEVNHk-OgfTRlO1n2aeAZ657f5FrG-5EaA=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"What is Angular? (Explained for Beginners)",
+        "channel":"Andy Sterkowitz",
+        "url":"https://www.youtube.com/embed/VAkio68d51A",
+        "thumbnaiUrl":"https://img.youtube.com/vi/VAkio68d51A/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/qayhd3hqd58nGrJj-fWaQv3WmsTNkNjj8g0Nxmd2FISEushAC-DdXUhmedsEjhQuJ6YgkNX--uY=s48-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title":"Angular Full Course in 5 Hours | Angular Tutorial For Beginners | Angular Training | Edureka",
+        "channel":"edureka!",
+        "url":"https://www.youtube.com/embed/xGpHfFf18Ns",
+        "thumbnaiUrl":"https://img.youtube.com/vi/xGpHfFf18Ns/0.jpg",
+        "avatarUrl":"https://yt3.ggpht.com/ytc/AKedOLTyvoU_YW3YmDgIXlJ8JpzFnNoZPVvQk9xFxfMkzQ=s48-c-k-c0x00ffffff-no-rj"
+      }
+]

@@ -1,0 +1,28 @@
+/* The CSS for Angular component
+AUTHOR: Diwen Zhang
+EMAIL:  zhangdiw@sheridancollege.ca
+CREATED: 2021-08-13
+UPDATED: 2021-08-14 */
+
+.channel-icon{
+    background-image: url("../assets/defaultAvatar.png");
+    background-size: cover;
+}
+
+.gridblock{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(350px,1fr));
+    gap:10px;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+}
+
+.filling{
+    display:flex; 
+    flex-direction: column; 
+    flex-grow: 1;
+    overflow: auto;
+}
